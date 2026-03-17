@@ -1,0 +1,26 @@
+.header {
+    border: 2px, solid black; 
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    color: gray;
+    padding: 10px;
+}
+
+#ejercicio {
+    
+    border: 2px, solid red;
+    border-radius: 10px ;
+    background-color: red;
+    color: white;
+}
+
+.contenido {
+    border: 1px, solid black; 
+    background-color: gray;
+    padding: 15px;
+    margin: 30px;
+}
+
+h4 {
+    display: inline;
+}

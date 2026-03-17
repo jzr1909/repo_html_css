@@ -1,0 +1,41 @@
+.body {
+    background-color: rgb(39, 139, 253);
+}
+
+
+
+.header {
+    border: 2px, solid blue;
+    background-color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    padding:20px
+}
+
+#ejercicio {
+    border:2px, solid orange;
+    border-radius: 10px;
+    background-color: orange;
+    color:black;
+}
+
+.contenido {
+    
+    margin: 20px;
+    padding: 20px;
+    
+}
+
+h4{
+    display: inline;
+}
+
+h1 {
+    color:red;
+}
+
+p {
+    font-size: 20px;
+    color:black;
+
+}

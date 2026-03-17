@@ -1,0 +1,31 @@
+.header {
+    border:2px, solid purple;
+    background-color: purple;
+    font-family:'Courier New', Courier, monospace ;
+    color: white;
+    padding: 15px;
+}
+
+.imagen {
+    padding: 20px;
+}
+
+.contenido {
+    padding: 20px;
+
+}
+
+#ejercicio {
+    border: 2px, solid orange;
+    border-radius: 10px;
+    background-color: orange;
+    color:black;
+}
+
+h4 {
+    display: inline;
+}
+
+p {
+    font-size: 20px;
+}

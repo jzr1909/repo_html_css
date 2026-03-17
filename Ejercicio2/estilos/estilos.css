@@ -1,0 +1,27 @@
+.header {
+    border:4px, solid rgb(109, 190, 109);
+    background-color: rgb(109, 190, 109);;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+h4 {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    display: inline;
+    
+}
+
+#ejercicio {
+    border: 2px, solid white;
+    background-color: white;
+    border-radius: 10px;
+    color: rgb(109, 190, 109);
+ 
+}
+
+.listas {
+    border:2px, solid white;
+    margin: 20px;
+    padding: 20px;
+}
