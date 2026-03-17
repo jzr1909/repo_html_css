@@ -1,5 +1,11 @@
+body {
+    background-color: rgb(39, 139, 253);
+    
+}
+
 .body {
     background-color: rgb(39, 139, 253);
+    margin: 0px;
 }
 
 

@@ -1,13 +1,15 @@
 .header {
-    border:2px, solid purple;
+    border:2px solid purple;
     background-color: purple;
     font-family:'Courier New', Courier, monospace ;
     color: white;
     padding: 15px;
 }
 
-.imagen {
-    padding: 20px;
+.imagen img{
+    padding: 30px;
+    width: 200px;
+    
 }
 
 .contenido {
@@ -16,7 +18,7 @@
 }
 
 #ejercicio {
-    border: 2px, solid orange;
+    border: 2px solid orange;
     border-radius: 10px;
     background-color: orange;
     color:black;
